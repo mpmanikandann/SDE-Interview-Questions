@@ -13,6 +13,7 @@
 
 - Given an array of distinct elements and a number x, find if there is a pair with product equal to x.
 - Given a string ‘str’ of digits and an integer ‘n’, build the lowest possible number by removing ‘n’ digits from the string and not changing the order of input digits.
+- Given a list of integer build the lowest possible number with k digits without changing the order of input digits and return as string.
 - Given a number, find its corresponding Roman numeral.
 - Given a linked list, write a function to reverse every k nodes (where k is an input to the function).
 - Given phone digits, print all possible words that can be formed from them.
@@ -33,8 +34,9 @@
 - Find if Given number is power of 2 or not.
   More specifically, find if given number can be expressed as 2^k where k >= 1.
 - Imagine that an employee tree represents the formal employee heirarchy at Amazon. Manager nodes have child nodes for each employee that reports to them; each of these employees can, in turn, have child nodes representing the number of months the employee has spent at the company. Team tenure is computed as the average tuenure of the manager and all the company employees working below the manager. The oldest team has the highest team tenure. Write an algorithm to find the manager of the team with the highest tenure. An employee must have child nodes to be a manager.
+- Given a two matrix A and B in which 0 represent water and 1 represent land. Find is B contains sub lands in A. 
   </br>
-
+  
 - Maximize partitions such that no two substrings have any common character
 - Find Square Root of a whole number without using standard functions 
 - Priority Inversion
